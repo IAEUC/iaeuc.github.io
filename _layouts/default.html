@@ -1,11 +1,20 @@
 <!DOCTYPE html>
-<html lang="en" data-dark="false">
+<html>
+
   {% include head.html %}
+
   <body>
+
     {% include header.html %}
-    <main>
-      {% include content.html content=content %}
-    </main>
+
+    <div class="container-fluid">
+      <div class="row">
+        {{ content }}
+      </div>
+    </div>
+
     {% include footer.html %}
+
   </body>
+
 </html>
