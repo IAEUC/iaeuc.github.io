@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "IAE - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "IAE at University of Canberra &rarr; UC."
 sitemap: false
 permalink: /
 ---
