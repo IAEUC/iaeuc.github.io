@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+**News: Institute for Applied Ecology (IAE) at the University of Canberra (UC)!** Join us! 
 
 We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
 
