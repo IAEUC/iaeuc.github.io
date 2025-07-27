@@ -1,11 +1,23 @@
-# Allan Lab Website
 
-This is the website of our academic research group at Leiden University.
+## Research Lab Website Design Template
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
+This is a research lab website template that can be used by university students / professors to create a simple website for showing and displaying their labs / research. 
 
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
+I built this for my brother years ago, and you can find his current site here: [University of Illinois Energy Transport Research Lab](http://etrl.mechanical.illinois.edu/)
 
+You can find a live view of the template using the link below:
 
-Copyright Allan Lab. Code released under the MIT License.
+https://photonlines.github.io/Research-Lab-Website/
 
+It was built using the libraries provided below:
+
+- [Twitter Bootstrap (v2.3.1)](https://github.com/twbs/bootstrap)
+- [blueimp Gallery (v1.3.0)](https://github.com/blueimp/Gallery)
+
+The stock photos used within the template are from [Unsplash.](https://unsplash.com/). 
+
+The CSS social buttons are from [Nick La.](http://webdesignerwall.com/tutorials/css-social-buttons)
+
+## License
+
+The work is licensed under The MIT License.
