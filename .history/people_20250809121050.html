@@ -10,7 +10,6 @@
       <link href="css/bootstrap.min.css" rel="stylesheet">
       <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
       <link href="css/theme.css" rel="stylesheet">
-      <link href="css/image-sizes.css" rel="stylesheet">
       
       <!-- 返回顶部按钮样式 -->
       <style>
@@ -97,9 +96,22 @@
          .dropdown.open .dropdown-menu {
             display: block !important;
          }
+         
+         /* 成员照片尺寸调整 */
+         .thumbnail img {
+            width: 180px !important;
+            height: 240px !important;
+            object-fit: cover !important;
+            border-radius: 8px !important;
+         }
+         
+         .thumbnail {
+            padding: 8px !important;
+            margin-bottom: 10px !important;
+         }
       </style>
    </head>
-   <body class="people-page">
+   <body>
       <div class="container">
          <header class="jumbotron subhead" id="overview">
             <p class="lead"> Velit Aliquet Sagittis University </p>

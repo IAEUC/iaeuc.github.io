@@ -1,0 +1,75 @@
+/* 通用图片尺寸控制样式 */
+
+/* 人员页面 - 成员照片 */
+.people-page .thumbnail img {
+    width: 180px !important;
+    height: 240px !important;
+    object-fit: cover !important;
+    border-radius: 8px !important;
+}
+
+.people-page .thumbnail {
+    padding: 8px !important;
+    margin-bottom: 10px !important;
+}
+
+/* 画廊页面 - 实验室照片 */
+.gallery-page .thumbnail img {
+    width: 200px !important;
+    height: 150px !important;
+    object-fit: cover !important;
+    border-radius: 6px !important;
+}
+
+.gallery-page .thumbnail {
+    padding: 4px !important;
+    margin-bottom: 15px !important;
+}
+
+/* 发表论文页面 - 期刊封面 */
+.publications-page .thumbnail img {
+    width: 120px !important;
+    height: 160px !important;
+    object-fit: cover !important;
+    border-radius: 4px !important;
+}
+
+.publications-page .thumbnail {
+    padding: 4px !important;
+    margin-bottom: 10px !important;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .people-page .thumbnail img {
+        width: 150px !important;
+        height: 200px !important;
+    }
+    
+    .gallery-page .thumbnail img {
+        width: 160px !important;
+        height: 120px !important;
+    }
+    
+    .publications-page .thumbnail img {
+        width: 100px !important;
+        height: 130px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .people-page .thumbnail img {
+        width: 120px !important;
+        height: 160px !important;
+    }
+    
+    .gallery-page .thumbnail img {
+        width: 120px !important;
+        height: 90px !important;
+    }
+    
+    .publications-page .thumbnail img {
+        width: 80px !important;
+        height: 100px !important;
+    }
+}
